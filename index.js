@@ -1,3 +1,3 @@
-import useCounter from './useCounter';
+import useCounter from './src/useCounter';
 
 export {useCounter};
