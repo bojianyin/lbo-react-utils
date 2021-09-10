@@ -1,6 +1,6 @@
 {
-  "name": "react-counter",
-  "version": "1.0.0",
+  "name": "lbo-react-counter",
+  "version": "1.0.1",
   "description": "useCounter",
   "main": "index.js",
   "types": "index.d.ts",
