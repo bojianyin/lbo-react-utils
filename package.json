@@ -1,19 +1,22 @@
 {
-  "name": "lbo-react-counter",
-  "version": "1.0.2",
-  "description": "useCounter",
+  "name": "lbo-react-utils",
+  "version": "1.0.3",
+  "description": "开发工具类",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bojianyin/react-counter.git"
+    "url": "https://github.com/bojianyin/lbo-react-utils.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "计数器",
-    "倒计时"
+    "倒计时",
+    "工具",
+    "util",
+    "counter"
   ],
   "author": "xiaobo",
   "license": "ISC"
